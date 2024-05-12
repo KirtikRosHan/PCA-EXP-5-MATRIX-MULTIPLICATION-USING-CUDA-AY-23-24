@@ -1,9 +1,9 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 <h3>AIM:</h3>
-<h3>ENTER YOUR NAME</h3>Kirtikroshan G.R.
-<h3>ENTER YOUR REGISTER NO</h3>212221043002
-<h3>EX. NO</h3> 05
-<h3>DATE</h3>
+<h3>ENTER YOUR NAME:Kirtikroshan G.R.</h3>
+<h3>ENTER YOUR REGISTER NO:212221043002</h3>
+<h3>EX. NO:05</h3>
+<h3>DATE:10.04.2023</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
